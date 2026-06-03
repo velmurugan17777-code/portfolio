@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import { useState, useEffect, useRef } from "react";
 
 const NAV_LINKS = ["Home", "About", "Projects", "Resume", "Contact"];
