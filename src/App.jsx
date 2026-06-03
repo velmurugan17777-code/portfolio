@@ -415,7 +415,7 @@ function Resume() {
 
         <div className="text-center">
           <a
-            href="resume_it.pdf"
+            href="resume it.pdf"
             download
             className="btn btn-vm-primary px-5 py-3"
             style={{ fontSize: "0.9rem" }}
